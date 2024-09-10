@@ -1,5 +1,10 @@
 # Tableau-CitiBike
 
+Tableau Viz
+
+1) Citibike Ridership Comomplete Total as Tabs -  https://public.tableau.com/views/CitibikeRidership_17259439555440/WeekRidershipDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 
 Tableau Dashboards.
 
