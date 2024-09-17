@@ -1,5 +1,14 @@
 # Tableau-CitiBike
 
+
+**Analysis** :
+
+1. Member ridership is higher than casual ridership and peaks at the end of August.
+2. Member ridership continues to increase, especially towards the end of August.
+3. Most casual ridership occurs in city locations.
+4. Members prefer electric bikes over classic bikes.
+5.Most rides are requested at downtown stations such as Hoboken Terminal and end at Grove Street PATH.
+6.Stations like Hoboken Terminal and Grove Street PATH are highlighted on the heatmap.
 Tableau Viz
 
 1) Citibike Ridership Comomplete Total as Tabs -  https://public.tableau.com/views/CitibikeRidership_17259439555440/WeekRidershipDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
