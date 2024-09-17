@@ -11,6 +11,11 @@
 6.Stations like Hoboken Terminal and Grove Street PATH are highlighted on the heatmap.
 Tableau Viz
 
+
+Stories :
+1) https://public.tableau.com/app/profile/krutika.desai3774/viz/ZipCodeStories/RidesRequestedStationsStory
+2) https://public.tableau.com/app/profile/krutika.desai3774/viz/RidershipStories/RidershipStory
+
 1) Citibike Ridership Comomplete Total as Tabs -  https://public.tableau.com/views/CitibikeRidership_17259439555440/WeekRidershipDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
